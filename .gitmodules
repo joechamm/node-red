@@ -1,0 +1,3 @@
+[submodule "nodes/git-nodes"]
+	path = nodes/git-nodes
+	url = git@github.com:joechamm/node-red-git-nodes.git
